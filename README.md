@@ -1,4 +1,4 @@
-Basic Ides:
+Basic Idea:
   To create a suite of tools to make stage management more efficient and automate 
   a lot of tedious work.
 
