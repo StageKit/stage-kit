@@ -3,7 +3,7 @@ Basic Idea:
   a lot of tedious work.
 
 Initial Implementation Goal:
-  Create a webapp to make line notes efficient.
+  Create an app to make line notes efficient.
 
 Intended Architecture:
   Node.js backend
